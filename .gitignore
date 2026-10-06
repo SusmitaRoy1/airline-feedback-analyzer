@@ -1,0 +1,23 @@
+# Build output
+build/
+out/
+cmake-build-*/
+
+# The dataset is CC BY-NC-SA 4.0 -- fetch it with scripts/fetch_data, never commit it.
+data/*.csv
+data/*.zip
+
+# Generated model artifacts
+*.lex
+models/
+
+# Private working notes -- not part of the published project
+SCAFFOLD.md
+
+# Editor / OS
+.vs/
+.vscode/
+.idea/
+*.user
+Thumbs.db
+.DS_Store
