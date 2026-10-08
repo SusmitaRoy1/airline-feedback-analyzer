@@ -14,7 +14,7 @@ C++17 — no machine-learning libraries, no external dependencies.
 
 ## Why this project
 
-I spent eight years as cabin crew. I have read a lot of customer feedback, and I
+I spent more than six years as cabin crew. I have read a lot of customer feedback, and I
 know that the hard part is not the furious one-star review — that one is
 obvious. The hard part is the *neutral* message: "Flight landed at 6." Is that
 a complaint about the delay, or a statement of fact?
